@@ -1,0 +1,59 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.content {
+  background: #efe9e2;
+  flex: 1;
+  /* overflow-y: auto; */
+}
+.fw-600 {
+  font-weight: 600;
+}
+.d-blue {
+  color: dodgerblue;
+}
+.black {
+  color: black;
+}
+.pointer {
+  cursor: pointer;
+}
+
+.custom-card {
+  width: 300px;
+  height: 500px;
+  padding: 20px;
+  margin:20px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  background-color: white;
+}
+
+.card-body{
+  justify-content: center;
+}
+.custom-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.custom-title {
+  text-align: center;
+  color: white !important;
+}
+
+.custom-border {
+  background-color: #FFA900;
+  padding: 5px 10px;
+  width: 150px;
+  border-radius: 20px;
+}
+
+.title-1{
+  font-family: 'Poppins', sans-serif;
+}
