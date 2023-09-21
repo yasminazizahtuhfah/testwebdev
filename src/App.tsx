@@ -5,7 +5,7 @@ import Cart from "./modules/cart/Cart";
 import ReactGA from "react-ga";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-const TRACKING_ID = "G-L6N30SH2K9";
+const TRACKING_ID = "G-P9MT2219HH";
 ReactGA.initialize(TRACKING_ID);
 
 function App() {
